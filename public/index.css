@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+#desc{
+    font-family: 'Roboto', sans-serif;
+}
+#stats{
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}
